@@ -2,7 +2,8 @@
 
 The files in this repository were used to configure the network depicted below.
 
-Diagrams/Nastri_CloudDiagram.png
+![Nastri_CloudDiagram](https://user-images.githubusercontent.com/73609036/114790137-779ac980-9d41-11eb-9dfd-1e8f34c02b0f.png)
+
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
 
